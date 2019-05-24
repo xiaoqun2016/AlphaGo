@@ -18,4 +18,4 @@ Using a [virtual environment](http://docs.python-guide.org/en/latest/dev/virtual
 
 To verify that this worked, try running the tests
 
-	python -m unittest discover
+	python -m unittest discover 
